@@ -1,1 +1,2 @@
 This is the Third Document for GitHub Practice with SmartGit
+(Creating RR, Cloning LR, Creating File, Adding/Committing on Git, Pushing on and Pulling from GitHub)
