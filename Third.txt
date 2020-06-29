@@ -1,0 +1,1 @@
+This is the Third Document for GitHub Practice with SmartGit
