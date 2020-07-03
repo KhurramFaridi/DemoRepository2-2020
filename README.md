@@ -2,7 +2,7 @@
 
 ## Second Heading
 
-### Thirf Heading
+### Third Heading
 
 **Bold Text**
 
